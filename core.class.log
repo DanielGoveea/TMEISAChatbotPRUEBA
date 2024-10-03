@@ -1,0 +1,881 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '95AD4FC37D188F48071902617AFE2A8C',
+    participant: undefined
+  },
+  messageTimestamp: 1727932624,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jsjshdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jsjshdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '34E899671C3502EFA429B9A2DFC3F5DE',
+    participant: undefined
+  },
+  messageTimestamp: 1727932626,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hahsbdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hahsbdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '6FDD897F849AAE212A515A7578E10F8D',
+    participant: undefined
+  },
+  messageTimestamp: 1727932627,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hahshdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hahshdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '194453125364CD0CB1EDB9AA47C16BF8',
+    participant: undefined
+  },
+  messageTimestamp: 1727932628,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jahsbdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jahsbdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'FB6C39FCF3424F6F2C34A819A7AD4025',
+    participant: undefined
+  },
+  messageTimestamp: 1727932629,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hategee',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hategee',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '09E8E7219CB114D8680A0E41FF8051D2',
+    participant: undefined
+  },
+  messageTimestamp: 1727932630,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Urirodms',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Urirodms',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '4EFA84C2FC8FCCA908447F79BA0851D3',
+    participant: undefined
+  },
+  messageTimestamp: 1727932631,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yatwvshd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Yatwvshd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0B0ABA68240A4ACBDC1B209D399E16D',
+    participant: undefined
+  },
+  messageTimestamp: 1727932632,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Nanndd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Nanndd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '0D7DD2B5B8FC4E91CE4A461416C3F1BA',
+    participant: undefined
+  },
+  messageTimestamp: 1727932634,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  keyword: 'key_84d1a30c-e3b9-411d-baf4-d5c59974dda8',
+  answer: '🙌 Hola soy *TMEISA-bot*🤖🔩',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ada3ac96a7d9b49ad109b0e5faac7630'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  keyword: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  answer: '🙌 Visitanos',
+  options: {
+    media: 'https://tmeisa.com.mx/images/logo.png?crc=3880466303',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd4e3ba187d499d7e970335d47a7b4008'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a36484db-8457-4118-add9-6f293ebe942e',
+  keyword: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  answer: 'te comparto los siguientes links de interes sobre TMEISA\n' +
+    '👉 *Web* para ver nuestro portal \n' +
+    '👉 *producto* aquì puedes ver todo lo que podemos ofrecerte\n' +
+    '👉 *contacto*  para linkearte con uno de nuestros ejecutivos\n' +
+    '👉 *lugar*  nos econtramos en el Edo de México\n' +
+    '👉  hay que pensar que poner aquí\n' +
+    '\n' +
+    '\n' +
+    '🔄 *Up* para regresar al menu.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d8ecbedeb3c57ce70a9d6bd9ab5278e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '3E00BC2EE741B43BF17F37654ED98C67',
+    participant: undefined
+  },
+  messageTimestamp: 1727932641,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Web',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Web',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6a101be1-5da9-4424-bf7f-9ac5697c5678',
+  keyword: 'key_fd0f7d07-5e87-49dd-acff-21bbbeca1c82',
+  answer: '🌎 Aquí encontraras nuestro portal web  TMEISA\n' +
+    '🇲🇽 Contamos con 20 años de experiencia diseñando y fabricando materiales metálicos\n' +
+    'Dentro de ello algunas de nuestras opciones son , Racks, paileria, estructuras y equipos especiales \n' +
+    'IMAGENES\n' +
+    'https://tmeisa.com.mx/index.html\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b31a15a9bd128709bccd484fd3f0e008'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '71DA55295118954870CF00482EE77DA2',
+    participant: undefined
+  },
+  messageTimestamp: 1727932643,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jsbsndn',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jsbsndn',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA8A42B33733EC8837A3230C87356B6D',
+    participant: undefined
+  },
+  messageTimestamp: 1727932645,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Habdbd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Habdbd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '3222B9D8127E1F2CEB374A8E704FE4A7',
+    participant: undefined
+  },
+  messageTimestamp: 1727932645,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hahsjdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hahsjdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'F434474F77EBDA40083339C5A7413B9E',
+    participant: undefined
+  },
+  messageTimestamp: 1727932646,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jagsbdjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jagsbdjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'C63206DA0B71AD4AB215052862B6DFD6',
+    participant: undefined
+  },
+  messageTimestamp: 1727932647,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Najsjd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Najsjd',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF1466AB4D2F04697D942F5A2967B62A',
+    participant: undefined
+  },
+  messageTimestamp: 1727932649,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '59A4E744737876F0CEF79388626096FD',
+    participant: undefined
+  },
+  messageTimestamp: 1727932650,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Up',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Up',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  keyword: 'key_84d1a30c-e3b9-411d-baf4-d5c59974dda8',
+  answer: '🙌 Hola soy *TMEISA-bot*🤖🔩',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ada3ac96a7d9b49ad109b0e5faac7630'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  keyword: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  answer: '🙌 Visitanos',
+  options: {
+    media: 'https://tmeisa.com.mx/images/logo.png?crc=3880466303',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd4e3ba187d499d7e970335d47a7b4008'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a36484db-8457-4118-add9-6f293ebe942e',
+  keyword: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  answer: 'te comparto los siguientes links de interes sobre TMEISA\n' +
+    '👉 *Web* para ver nuestro portal \n' +
+    '👉 *producto* aquì puedes ver todo lo que podemos ofrecerte\n' +
+    '👉 *contacto*  para linkearte con uno de nuestros ejecutivos\n' +
+    '👉 *lugar*  nos econtramos en el Edo de México\n' +
+    '👉  hay que pensar que poner aquí\n' +
+    '\n' +
+    '\n' +
+    '🔄 *Up* para regresar al menu.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d8ecbedeb3c57ce70a9d6bd9ab5278e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'E628DECA65EBB27B0FB9DE172F6CA247',
+    participant: undefined
+  },
+  messageTimestamp: 1727932655,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lugar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Lugar',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4bebfd4d-e12a-4592-8b04-62310777e393',
+  keyword: 'key_d08c0b05-f746-4cfa-b617-1a1f81834ebb',
+  answer: '🌐😁 Visitanos !\n' +
+    'https://www.google.com/maps/dir//Tmeisa+C.+Argentina+44+Ejido+San+Miguel+Chalma+52928+Cdad.+L%C3%B3pez+Mateos,+M%C3%A9x./@19.604724,-99.2353288,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x85d21c2d6890bff5:0x3cbcfb62140bc115!2m2!1d-99.2353288!2d19.604724?entry=ttu&g_ep=EgoyMDI0MDkyOS4wIKXMDSoASAFQAw%3D%3D\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'edb5e2539cfa907865c6e39b589ca137'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '15C444C42D9513922DAB1F1626231648',
+    participant: undefined
+  },
+  messageTimestamp: 1727932659,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Muchas gracias',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'D447172DC4DBF2FF5B4E386FF48BAD85',
+    participant: undefined
+  },
+  messageTimestamp: 1727932663,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hay entregas a domicilio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hay entregas a domicilio',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'A462C249F7EDEA312E2B848829D0659F',
+    participant: undefined
+  },
+  messageTimestamp: 1727932665,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sabes ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sabes ?',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '57C9AAA127FAA52743382DDB22983523',
+    participant: undefined
+  },
+  messageTimestamp: 1727932667,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oye',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Oye',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '8005D4FFE23668001B7A2E45A8850B2F',
+    participant: undefined
+  },
+  messageTimestamp: 1727932669,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero vern',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quiero vern',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'C7F7576BD56EAED377A69B062D7AD999',
+    participant: undefined
+  },
+  messageTimestamp: 1727932676,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Los productos que tienes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Los productos que tienes',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCF19FDB87C5ABE1D06DE9A080406917',
+    participant: undefined
+  },
+  messageTimestamp: 1727932678,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gracias',
+  from: '5215518047711'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '7E11DAE721E250C151FC5C9C01C69F9C',
+    participant: undefined
+  },
+  messageTimestamp: 1727932679,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Up',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Up',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  keyword: 'key_84d1a30c-e3b9-411d-baf4-d5c59974dda8',
+  answer: '🙌 Hola soy *TMEISA-bot*🤖🔩',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ada3ac96a7d9b49ad109b0e5faac7630'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  keyword: 'ans_275e9e6c-7498-4bfa-8582-77a2cd411a8f',
+  answer: '🙌 Visitanos',
+  options: {
+    media: 'https://tmeisa.com.mx/images/logo.png?crc=3880466303',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd4e3ba187d499d7e970335d47a7b4008'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a36484db-8457-4118-add9-6f293ebe942e',
+  keyword: 'ans_5bd307a5-e8b1-4747-87f2-8261f26fdac5',
+  answer: 'te comparto los siguientes links de interes sobre TMEISA\n' +
+    '👉 *Web* para ver nuestro portal \n' +
+    '👉 *producto* aquì puedes ver todo lo que podemos ofrecerte\n' +
+    '👉 *contacto*  para linkearte con uno de nuestros ejecutivos\n' +
+    '👉 *lugar*  nos econtramos en el Edo de México\n' +
+    '👉  hay que pensar que poner aquí\n' +
+    '\n' +
+    '\n' +
+    '🔄 *Up* para regresar al menu.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d8ecbedeb3c57ce70a9d6bd9ab5278e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215518047711@s.whatsapp.net',
+    fromMe: false,
+    id: '02B175B6AFC37E724A01EBAD5964F7DC',
+    participant: undefined
+  },
+  messageTimestamp: 1727932686,
+  pushName: '@goveea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Producto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Producto',
+  from: '5215518047711'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8a5fbfba-9867-44bc-ad97-7688026109ec',
+  keyword: 'key_3a4309ae-e40a-4f90-95d0-1859fbfb2d64',
+  answer: '🙌 PRODUCTO*🤖🔩',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11ec622a4591d074ac791e3e21a2fd33'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dd9bb428-b165-485f-93c6-3955436ae9c9',
+  keyword: 'ans_8a5fbfba-9867-44bc-ad97-7688026109ec',
+  answer: '🙌 IMAGEN DEL PRODUCTO',
+  options: {
+    media: 'https://tmeisa.com.mx/images/logo.png?crc=3880466303',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6daf889bd0f3c9557afb88974057089c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_54b2424d-7a99-4dd4-b441-ea3c1575483b',
+  keyword: 'ans_dd9bb428-b165-485f-93c6-3955436ae9c9',
+  answer: 'ESTE ES PRODUCTO\n' +
+    '🤪 Únete al equipo de Exibidores\n' +
+    'https://tmeisa.com.mx/productos.html\n' +
+    'Prácticos y funcionales\n' +
+    'Atractivos para los consumidores\n' +
+    'Modernos\n' +
+    'Diseños ergonómicos\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '372d563d8585ebb969353bf0a6afedfe'
+}
